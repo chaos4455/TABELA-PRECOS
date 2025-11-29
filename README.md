@@ -18,8 +18,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4ZmxuNGw0ZnJ4ZmxuNGw0ZnJ4ZmxuNGw0ZnJ4ZmxuNGw0ZnJ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpSf6D9J4s8Gq4Ks6k/giphy.gif" width="30"/> 
   Transformando Dados em Lucro Líquido
 </h1>
-<img width="1366" height="1626" alt="screencapture-file-C-Users-fatur-Downloads-tabela-preco-elias-andrade-v1-html-2025-11-27-15_30_13" src="https://github.com/user-attachments/assets/27d64cd1-8e9b-4a85-8c0a-c10ee13d4b45" />
-<img width="1366" height="1347" alt="screencapture-file-C-Users-fatur-Downloads-TABELA-PRECOS-ELIAS-V2-HTML-2025-11-27-15_33_26" src="https://github.com/user-attachments/assets/c23426ac-1121-4a06-a720-467222633207" />
 
 
 <p align="center">
@@ -130,6 +128,10 @@ Eu implemento um ecossistema que conecta **Dados → Decisão → Resultado**.
 ## 📬 Vamos Escalar Seu Negócio?
 
 Estou disponível para consultoria, projetos pontuais ou desenvolvimento de soluções de longo prazo.
+
+<img width="1366" height="1626" alt="screencapture-file-C-Users-fatur-Downloads-tabela-preco-elias-andrade-v1-html-2025-11-27-15_30_13" src="https://github.com/user-attachments/assets/27d64cd1-8e9b-4a85-8c0a-c10ee13d4b45" />
+<img width="1366" height="1347" alt="screencapture-file-C-Users-fatur-Downloads-TABELA-PRECOS-ELIAS-V2-HTML-2025-11-27-15_33_26" src="https://github.com/user-attachments/assets/c23426ac-1121-4a06-a720-467222633207" />
+
 
 <a href="https://wa.me/5511913353137">
   <img src="https://img.shields.io/badge/AGENDE_UMA_REUNIÃO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&fontSize=20" alt="Agendar Reunião" />
