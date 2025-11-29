@@ -141,9 +141,7 @@ Estou disponível para consultoria, projetos pontuais ou desenvolvimento de solu
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Elias GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" />
-</p>
+ </p>
 
 <p align="center">
   <small>© 2025 Replika AI Solutions. Developed by Elias Andrade. All rights reserved.</small>
