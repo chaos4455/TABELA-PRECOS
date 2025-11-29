@@ -37,7 +37,7 @@ Atuo na interseção entre **Tecnologia e Negócios**, transformando departament
 ### 🚀 Impacto Comprovado (Track Record)
 | Métrica | Resultado Alcançado |
 | :--- | :--- |
-| **Recuperação de Receita** | 💰 **R$ 1 Milhão/ano** via predição de itens com demanda reprimida |
+| **Recuperação de Receita** | 💰 **R$ +3 Milhão/ano** já no primeiro ano via predição de itens com demanda reprimida e estretágia de retenção e conversão de orçamentos não fechados. |
 | **Disponibilidade** | 📈 **99.5%** garantidos em 1.700+ produtos de alto giro |
 | **Redução de Estoque** | 📉 **70-85%** de redução em superestoque parado |
 | **Assertividade IA** | 🎯 **>60%** na predição de churn e recompra (validado em 36 meses) |
