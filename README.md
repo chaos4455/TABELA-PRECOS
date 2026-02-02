@@ -1,4 +1,4 @@
-<!-- Banner Principal -->
+<!-- Banner Principal --> 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=REPLIKA%20AI%20SOLUTIONS&fontSize=70&fontColor=00ff99&animation=fadeIn&fontAlignY=35&desc=Elias%20Andrade%20//%20Senior%20Data%20&%20AI%20Specialist&descAlignY=55&descAlign=50" alt="Replika AI Banner" width="100%"/>
 </div>
